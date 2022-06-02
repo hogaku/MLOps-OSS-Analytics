@@ -1,12 +1,18 @@
 # MLOps-OSS-Analytics
 ## The Repository
-This repository share the PowerBI dashboard that analyzing opensource in [MLOps](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops). You can get the following insights:
+This repository share the interactive PowerBI report that analyzing opensource in [MLOps](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops). You can get the following insights:
 - Top 100 Contributors 
 - Traffic 
 - Contributor Commits 
 - Pull Requests 
 - Punch Card 
 - Issues 
+
+https://user-images.githubusercontent.com/11484713/171646001-81a873cf-2ac6-43b3-a8a6-16a3a0e07188.mp4
+
+
+
+
 
 ## Training Orchestration
 Name | Overview | DashBoard | Others
