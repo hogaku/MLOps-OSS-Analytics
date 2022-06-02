@@ -8,9 +8,9 @@ This repository share the interactive PowerBI report that analyzing opensource i
 - Punch Card 
 - Issues 
 
-https://user-images.githubusercontent.com/11484713/171646001-81a873cf-2ac6-43b3-a8a6-16a3a0e07188.mp4
 
 
+https://user-images.githubusercontent.com/11484713/171648571-5a14820b-2efc-4c7c-bf86-361060d41129.mp4
 
 
 
