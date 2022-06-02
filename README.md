@@ -67,13 +67,9 @@ Name | Overview | DashBoard | Others
 [ClearML](https://github.com/allegroai/clearml) | ClearML is a ML/DL development and production suite, it contains FOUR main modules: Experiment Manager, MLOps, Data-Management, Model-Serving | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJjNzc2NTctZWZmMC00OGZjLTkwZjEtOGFhNWE5ODcxMGI1IiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [ClearML](https://clear.ml/docs/latest/docs/),  Model-Serving is [exist](https://github.com/allegroai/clearml-serving), [slack community](https://join.slack.com/t/clearml/shared_invite/zt-c0t13pty-aVUZZW1TSSSg2vyIGVPBhg)
 [MLFlow](https://github.com/mlflow/mlflow) | MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models. MLflow offers a set of lightweight APIs that can be used with any existing machine learning application or library (TensorFlow, PyTorch, XGBoost, etc), wherever you currently run ML code (e.g. in notebooks, standalone applications or the cloud). | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTVkMTUwOWYtYWY1ZC00ODNlLTg2NjktMDM5M2M2ZTA1ZmUzIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [MLFlow](https://mlflow.org/docs/latest/index.html), [slack community](https://mlflow.org/#community)
 [Neptune](https://github.com/neptune-ai/neptune-client) | Neptune is a lightweight solution designed for: Experiment tracking, Model registry, Monitoring ML runs live| [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2IxZGQ3ODMtMzNmMC00ZmM0LWFhZDQtNTJhY2VlZWJhZDA4IiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Neptune](https://docs.neptune.ai/)
-
-- [Aim](https://github.com/aimhubio/aim)
-- [CML](https://github.com/iterative/cml)
-- [ClearML](https://github.com/allegroai/clearml)
-- [MLFlow](https://github.com/mlflow/mlflow)
-- [Neptune](https://github.com/neptune-ai/neptune-client)
-- [Weights & Biases](https://github.com/wandb/client)
+[Weights & Biases](https://github.com/wandb/client) | Use W&B to build better models faster. Track and visualize all the pieces of your machine learning pipeline, from datasets to production models. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZhMzRmMWYtNTk0MC00OWQyLTg5OTItN2EzNDNlYTIwOTIwIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Weights & Biases](https://docs.wandb.ai/)
 
 ## Explainability
-- [ELI5](https://github.com/TeamHG-Memex/eli5)
+Name | Overview | DashBoard | Others
+-- | -- | -- | --
+[ELI5](https://github.com/TeamHG-Memex/eli5) | ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA4ZjY0MDktMjcwNy00MWVmLWEzYTgtYzMwZjgwNWQyMjE3IiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [ELI5](https://aimstack.readthedocs.io/en/latest/)
