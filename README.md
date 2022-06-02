@@ -53,6 +53,10 @@ Name | Overview | DashBoard | Others
 [lakeFS](https://github.com/treeverse/lakeFS) | lakeFS is an open-source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code. With lakeFS you can build repeatable, atomic, and versioned data lake operations - from complex ETL jobs to data science and analytics. lakeFS supports AWS S3, Azure Blob Storage, and Google Cloud Storage as its underlying storage service. It is API compatible with S3 and works seamlessly with all modern data frameworks such as Spark, Hive, AWS Athena, Presto, etc. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU4MTc1ODctMTNkYi00MzdiLWExOWYtY2MwNmYzMThkOGI2IiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [lakeFS](https://docs.lakefs.io/), [slack community](https://lakefs.io/community/)
 
 ## Feature Store
+Name | Overview | DashBoard | Others
+-- | -- | -- | --
+[Feast](https://github.com/feast-dev/feast) | Feast is an open source feature store for machine learning. Feast is the fastest path to productionizing analytic data for model training and online inference. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAxY2MwMTUtYjU5ZC00ZjY2LTkzYjAtMWFhYjJkYWNmZmFkIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Feast](https://docs.feast.dev/), [slack community](https://slack.feast.dev/)
+[Hopsworks](https://github.com/logicalclocks/hopsworks) | Hopsworks and its Feature Store are an open source data-intensive AI platform used for the development and operation of machine learning models at scale. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAxY2MwMTUtYjU5ZC00ZjY2LTkzYjAtMWFhYjJkYWNmZmFkIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Hopsworks](https://docs.hopsworks.ai/), [slack community](https://community.hopsworks.ai/)
 - [Feast](https://github.com/feast-dev/feast)
 - [Hopsworks](https://github.com/logicalclocks/hopsworks)
 - [Feathr](https://github.com/linkedin/feathr)
