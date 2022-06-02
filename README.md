@@ -57,9 +57,8 @@ Name | Overview | DashBoard | Others
 -- | -- | -- | --
 [Feast](https://github.com/feast-dev/feast) | Feast is an open source feature store for machine learning. Feast is the fastest path to productionizing analytic data for model training and online inference. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAxY2MwMTUtYjU5ZC00ZjY2LTkzYjAtMWFhYjJkYWNmZmFkIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Feast](https://docs.feast.dev/), [slack community](https://slack.feast.dev/)
 [Hopsworks](https://github.com/logicalclocks/hopsworks) | Hopsworks and its Feature Store are an open source data-intensive AI platform used for the development and operation of machine learning models at scale. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAxY2MwMTUtYjU5ZC00ZjY2LTkzYjAtMWFhYjJkYWNmZmFkIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Hopsworks](https://docs.hopsworks.ai/), [slack community](https://community.hopsworks.ai/)
-- [Feast](https://github.com/feast-dev/feast)
-- [Hopsworks](https://github.com/logicalclocks/hopsworks)
-- [Feathr](https://github.com/linkedin/feathr)
+[Feathr](https://github.com/linkedin/feathr) | Feathr is the feature store that is used in production in LinkedIn for many years and was open sourced in April 2022 | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAxY2MwMTUtYjU5ZC00ZjY2LTkzYjAtMWFhYjJkYWNmZmFkIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9&pageName=ReportSection5) | official docs at [Feathr](https://linkedin.github.io/feathr/), [slack community](https://join.slack.com/t/feathrai/shared_invite/zt-19dcbquwl-zKiJGYTak6Psw2GbUYtT2g)
+
 ## Experiment Tracking
 - [Aim](https://github.com/aimhubio/aim)
 - [CML](https://github.com/iterative/cml)
