@@ -45,19 +45,13 @@ Name | Overview | DashBoard | Others
 [Triton Inference Server](https://github.com/pytorch/serve) | Triton Inference Server is an open source inference serving software that streamlines AI inferencing. Triton enables teams to deploy any AI model from multiple deep learning and machine learning frameworks, including TensorRT, TensorFlow, PyTorch, ONNX, OpenVINO, Python, RAPIDS FIL, and more. Triton supports inference across cloud, data center,edge and embedded devices on NVIDIA GPUs, x86 and ARM CPU, or AWS Inferentia. Triton delivers optimized performance for many query types, including real time, batched, ensembles and audio/video streaming. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTJlNWMyNTMtMjNiOC00NTAxLWJhM2QtODAwYmU4OGJkNGZmIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server)
 
 
-- [BentoML](https://github.com/bentoml/BentoML)
-- [Bodywork](https://github.com/bodywork-ml/bodywork-core)
-- [Cortex](https://github.com/cortexlabs/cortex)
-- [KFServing](https://github.com/kserve/kserve)
-- [OpenVINO™ Model Server](https://github.com/openvinotoolkit/model_server)
-- [Seldon Core](https://github.com/SeldonIO/seldon-core)
-- [Tensorflow Serving](https://github.com/tensorflow/serving)
-- [TorchServe](https://github.com/pytorch/serve)
-- [Triton Inference Server](https://github.com/triton-inference-server/server)
 ## Data Versioning
-- [DVC](https://github.com/iterative/dvc)
-- [Pachyderm](https://github.com/pachyderm/pachyderm)
-- [lakeFS](https://github.com/treeverse/lakeFS)
+Name | Overview | DashBoard | Others
+-- | -- | -- | --
+[DVC](https://github.com/iterative/dvc) | Data Version Control or DVC helps you develop reproducible machine learning projects. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTk4ODk0OWQtNGU2Mi00OTJmLTk1NjAtZmU3MjAyNDliMjcxIiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [DVC](https://dvc.org/doc), [discord community](https://discord.com/invite/dvwXA2N)
+[Pachyderm](https://github.com/pachyderm/pachyderm) | Pachyderm is the leader in data versioning and pipelines for MLOps. We provide the data foundation that allows data science teams to automate and scale their machine learning lifecycle while guaranteeing reproducibility. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZlYjhjNzYtY2UyNS00MTg1LTkzM2QtYmE1Y2FjZjA1MWM4IiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [Pachyderm](https://docs.pachyderm.com/latest), [slack community](https://slack.pachyderm.io/)
+[lakeFS](https://github.com/treeverse/lakeFS) | lakeFS is an open-source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code. With lakeFS you can build repeatable, atomic, and versioned data lake operations - from complex ETL jobs to data science and analytics. lakeFS supports AWS S3, Azure Blob Storage, and Google Cloud Storage as its underlying storage service. It is API compatible with S3 and works seamlessly with all modern data frameworks such as Spark, Hive, AWS Athena, Presto, etc. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU4MTc1ODctMTNkYi00MzdiLWExOWYtY2MwNmYzMThkOGI2IiwidCI6ImY3ZGFmMTViLTEzZjEtNGVlNC1iMWRmLTdlZDBhMjBhMGM5MCJ9) | official docs at [lakeFS](https://docs.lakefs.io/), [slack community](https://lakefs.io/community/)
+
 ## Feature Store
 - [Feast](https://github.com/feast-dev/feast)
 - [Hopsworks](https://github.com/logicalclocks/hopsworks)
